@@ -1,0 +1,13 @@
+
+body{
+    background-Image: url("https://wshop.fi/eng/wp-content/uploads/2021/03/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.cardBody{
+    overflow: hidden;
+}
+
